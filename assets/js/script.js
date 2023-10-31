@@ -1,6 +1,8 @@
 
 // INITIAL DATA
 let currentColor = 'black'
+let scren = document.querySelector('#tela')
+let context = scren.getContext('2d')
 
 
 // EVENTS
